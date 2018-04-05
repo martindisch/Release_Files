@@ -1,18 +1,9 @@
-A3Wasteland Files
+Will of Fire A3Wasteland Files
 =================
 
-This repository is where external files related to A3Wasteland are published.
+This is a fork of the repository where external files related to A3Wasteland are published.
 
-Please take some time to read [IMPORTANT.txt](IMPORTANT.txt) and [A3W_extDB3_README.txt](A3W_extDB3_README.txt) before asking any questions about how to run this mission.
-
-The actual mission PBO must be manually compiled using [Addon Builder](https://community.bistudio.com/wiki/Addon_Builder), [BinBPO](http://downloads.bistudio.com/Tools/BI_Editing_Tools_2_Setup.zip), or [MakePBO](https://armaservices.maverick-applications.com/Products/MikerosDosTools/) from the following sources:
-
- - https://github.com/A3Wasteland/ArmA3_Wasteland.Altis
- - https://github.com/A3Wasteland/ArmA3_Wasteland.Stratis
- - https://github.com/A3Wasteland/ArmA3_Wasteland.Tanoa
- - https://github.com/A3Wasteland/ArmA3_Wasteland.Malden
-
-For help, suggestions or complaints come to our forums at: http://forums.a3wasteland.com/
+The repository has been forked for keeping the custom configuration for Will of Fire A3Wasteland and keeping track of upstream changes in configuration options.
 
 ---
 
